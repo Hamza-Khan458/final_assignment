@@ -1,1 +1,1 @@
-# final_assignment
+This project focuses on extracting real-time stock data using Python libraries like yfinance and web scraping techniques. It then visualizes key financial metrics—such as stock prices and company revenue—through interactive graphs, helping users better understand market trends and make informed decisions.
